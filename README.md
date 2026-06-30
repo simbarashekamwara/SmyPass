@@ -108,16 +108,9 @@ SmyPass/
 - Enforced password strength policy (length, case, numbers, special characters)
 - Session auto-locks back to the home menu after a period of inactivity
 
-### Upcoming security improvements
-- [ ] Input validation hardening on all fields
-- [ ] Login attempt limiting
-- [ ] Migrate from `.txt` to encrypted database storage
-
----
-
 ## Author
 
 Built by **[Simbarashe Kamwara]** 
-🔗 [LinkedIn](www.linkedin.com/in/simbarashekamwara) · [GitHub](https://github.com/simbarashekamwara)
+🔗 [LinkedIn](https://www.linkedin.com/in/simbarashekamwara) · [GitHub](https://github.com/simbarashekamwara)
 
 ---
