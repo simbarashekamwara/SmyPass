@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+🎬 **[Watch the Demo](https://youtu.be/DsWJugKwNZI)**
 ---
 
 ## What is SmyPass?
