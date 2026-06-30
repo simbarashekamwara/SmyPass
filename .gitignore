@@ -1,1 +1,2 @@
 *.vault\n*.db\nsecrets.json\n.env\n__pycache__/\n*.pyc
+user.txt
